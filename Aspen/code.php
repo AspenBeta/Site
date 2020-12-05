@@ -18,6 +18,5 @@ if($action = "save") {
 	<input type=text name="Password">
     <input type="submit" value="submit">
   </form>
-  <?php include 'code.php';?>
 </body>
 </html>
